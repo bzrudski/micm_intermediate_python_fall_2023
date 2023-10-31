@@ -1,6 +1,6 @@
 # Intro to Python Workshop
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intro_to_python_summer_2023/blob/main/code/IntroToPythonBZR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intermediate_python_fall_2023/blob/main/code/BenjaminRudskiIntermediatePython.ipynb)
 
 Dear reader,  
 This repository contains the code, outline and slides for the MiCM Intermediate Python workshop at McGill in Fall 2023.
