@@ -1,0 +1,4 @@
+Hello, MiCM workshop!
+This is a text file!
+It's a nice, simple file.
+The only thing in here is text...
