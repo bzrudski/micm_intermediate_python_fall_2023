@@ -1,6 +1,8 @@
 # Intro to Python Workshop
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intermediate_python_fall_2023/blob/main/code/BenjaminRudskiIntermediatePython.ipynb)
+Blank notebook: [![Open Blank Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intermediate_python_fall_2023/blob/main/code/BenjaminRudskiIntermediatePython.ipynb)
+
+Solutions: [![Open Solutions In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bzrudski/micm_intermediate_python_fall_2023/blob/main/solutions/BenjaminRudskiIntermediatePythonFilledLive.ipynb)
 
 Dear reader,  
 This repository contains the code, outline and slides for the MiCM Intermediate Python workshop at McGill in Fall 2023.
